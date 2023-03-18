@@ -20,6 +20,15 @@ To edit this repository in MakeCode.
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/nickkaluzhskikh/meowbit_fisheater_001** and click import
 
+## Open image
+ 
+Open repository in MakeCode.
+
+* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
+* download the file: OPEN.png
+* click on **Import** then click on **Import FILE**
+* choose needed file
+
 ## Blocks preview
 
 This image shows the blocks code from the last commit in master.
