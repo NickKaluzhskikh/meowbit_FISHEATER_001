@@ -25,7 +25,7 @@ To edit this repository in MakeCode.
 Open repository in MakeCode.
 
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* download the file: OPEN.png
+* download the file: [https://github.com/NickKaluzhskikh/meowbit_FISHEATER_001/blob/master/arcade-Test-спустя-год%20(3).png/]
 * click on **Import** then click on **Import FILE**
 * choose needed file
 
